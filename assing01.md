@@ -14,7 +14,9 @@ Detail the Language Learning Activity:
   2. What words comes to your mind as a key word?
 ## 🍀 Listening Activity
 + Answer the following questions
-+ 1. What is 
++ 1. Where did FC Barcelona sign Lionel Messi's first contract?
+  2. What happened to him in 2022?
+  3. Why is he famous all around the world?
 Organize the activity around different aspects of language learning such as vocabulary, grammar, listening, and writing.
 Design the activity to be engaging and informative.
 Provide an Example of the Language Learning Material:
