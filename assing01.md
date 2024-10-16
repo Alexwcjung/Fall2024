@@ -42,26 +42,26 @@
 
 ✨ Fill in the blanks
 
-Messi ___ one of the most famous soccer players in the world.
-Messi ___ his biggest career achievement in 2022 when he won the World Cup.
-Messi’s family couldn’t afford the expensive medicine he ___.
-Messi ___ loved playing soccer from a young age.
-Messi ___ his first contract with FC Barcelona on a napkin.
-Messi ___ born on June 24, 1987, in Rosario, Argentina.
-Messi’s success in soccer has ___ him famous worldwide.
-Messi ___ known for his amazing dribbling and scoring skills.
-Messi and his family ___ unable to afford the expensive treatment for his growth problem.
-Messi ___ his first major tournament with Argentina, the Copa América, in 2021.
-FC Barcelona ___ Messi’s talent at a young age and offered him a contract.
-Messi ___ 17 when he started playing for Barcelona’s main team.
-In 2022, Messi’s victory in the World Cup ___ a dream come true for him.
-Messi ___ married and has three children.
-When Messi was 13, FC Barcelona ___ eager to sign him.
-FC Barcelona ___ one of the most famous soccer clubs in the world.
-At the age of 17, Messi ___ playing for Barcelona’s main team.
-Messi’s charity work ___ admired by many fans around the world.
-When Messi was 13, FC Barcelona ___ to pay for his treatment.
-FC Barcelona ___ one of the most famous soccer clubs in the world.
+1. Messi ___ one of the most famous soccer players in the world.
+2. Messi ___ his biggest career achievement in 2022 when he won the World Cup.
+3. Messi’s family couldn’t afford the expensive medicine he ___.
+4. Messi ___ loved playing soccer from a young age.
+5. Messi ___ his first contract with FC Barcelona on a napkin.
+6. Messi ___ born on June 24, 1987, in Rosario, Argentina.
+7. Messi’s success in soccer has ___ him famous worldwide.
+8. Messi ___ known for his amazing dribbling and scoring skills.
+9. Messi and his family ___ unable to afford the expensive treatment for his growth problem.
+10. Messi ___ his first major tournament with Argentina, the Copa América, in 2021.
+11. FC Barcelona ___ Messi’s talent at a young age and offered him a contract.
+12. Messi ___ 17 when he started playing for Barcelona’s main team.
+13. In 2022, Messi’s victory in the World Cup ___ a dream come true for him.
+14. Messi ___ married and has three children.
+15. When Messi was 13, FC Barcelona ___ eager to sign him.
+16. FC Barcelona ___ one of the most famous soccer clubs in the world.
+17. At the age of 17, Messi ___ playing for Barcelona’s main team.
+18. Messi’s charity work ___ admired by many fans around the world.
+19. When Messi was 13, FC Barcelona ___ to pay for his treatment.
+20. FC Barcelona ___ one of the most famous soccer clubs in the world.
 
 
 
