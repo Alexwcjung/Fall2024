@@ -64,10 +64,6 @@ General Verbs (10 Questions)
 9. Messi ___ his biggest career achievement in 2022 when he won the World Cup.
 10. Messi’s success in soccer has ___ him famous worldwide.
 
-## 🍀 Prepare the Markdown File (md): 
-In the assing01.md file, describe a simple learning activity and the digital tool you plan to use.
-Ensure your description is detailed enough for a fellow teacher, who may not be familiar with the tool, to understand. Include necessary links and resources to help explain the tool and activity.
-
 
 
 
