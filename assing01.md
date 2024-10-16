@@ -23,46 +23,45 @@
 
 ## 🍀 Grammer Activity
 
-| To Be Verbs  | General Verbs    |
-|--------------|------------------|
-| was          | born              |
-| is           | saw               |
-| were         | pay               |
-| are          | signed            |
-|              | started           |
-|              | needed            |
-|              | offered           |
-|              | wrote             |
-|              | won               |
-|              | help              |
-|              | had               |
-|              | play              |
+| **To Be Verbs** | **General Verbs** |
+|-----------------|-------------------|
+| was             | born              |
+| is              | saw               |
+| were            | pay               |
+| are             | signed            |
+|                 | started           |
+|                 | needed            |
+|                 | offered           |
+|                 | wrote             |
+|                 | won               |
+|                 | made              |
+|                 | loved             |
+|                 | achieved          |
+|                 | play              |
 
-✨ Answer the following questions
 
-To Be Verbs (10 Questions)
-1. Messi ___ born on June 24, 1987, in Rosario, Argentina.
-2. When Messi was 13, FC Barcelona ___ eager to sign him.
-3. Messi ___ known for his amazing dribbling and scoring skills.
-4. Messi ___ 17 when he started playing for Barcelona’s main team.
-5. In 2022, Messi’s victory in the World Cup ___ a dream come true for him.
-6. Messi and his family ___ unable to afford the expensive treatment for his growth problem.
-7. FC Barcelona ___ one of the most famous soccer clubs in the world.
-8. Messi ___ married and has three children.
-9. Messi ___ one of the most famous soccer players in the world.
-10. Messi’s charity work ___ admired by many fans around the world.
+✨ Fill in the blanks
 
-General Verbs (10 Questions)
-1. Messi’s family couldn’t afford the expensive medicine he ___.
-2. When Messi was 13, FC Barcelona ___ to pay for his treatment.
-3. At the age of 17, Messi ___ playing for Barcelona’s main team.
-4. Messi ___ his first contract with FC Barcelona on a napkin.
-5. In 2021, Messi finally ___ his first major tournament with Argentina, the Copa América.
-6. FC Barcelona ___ Messi’s talent at a young age and offered him a contract.
-7. Messi ___ loved playing soccer from a young age.
-8. Messi’s skills on the field ___ admired by fans all over the world.
-9. Messi ___ his biggest career achievement in 2022 when he won the World Cup.
-10. Messi’s success in soccer has ___ him famous worldwide.
+Messi ___ one of the most famous soccer players in the world.
+Messi ___ his biggest career achievement in 2022 when he won the World Cup.
+Messi’s family couldn’t afford the expensive medicine he ___.
+Messi ___ loved playing soccer from a young age.
+Messi ___ his first contract with FC Barcelona on a napkin.
+Messi ___ born on June 24, 1987, in Rosario, Argentina.
+Messi’s success in soccer has ___ him famous worldwide.
+Messi ___ known for his amazing dribbling and scoring skills.
+Messi and his family ___ unable to afford the expensive treatment for his growth problem.
+Messi ___ his first major tournament with Argentina, the Copa América, in 2021.
+FC Barcelona ___ Messi’s talent at a young age and offered him a contract.
+Messi ___ 17 when he started playing for Barcelona’s main team.
+In 2022, Messi’s victory in the World Cup ___ a dream come true for him.
+Messi ___ married and has three children.
+When Messi was 13, FC Barcelona ___ eager to sign him.
+FC Barcelona ___ one of the most famous soccer clubs in the world.
+At the age of 17, Messi ___ playing for Barcelona’s main team.
+Messi’s charity work ___ admired by many fans around the world.
+When Messi was 13, FC Barcelona ___ to pay for his treatment.
+FC Barcelona ___ one of the most famous soccer clubs in the world.
 
 
 
