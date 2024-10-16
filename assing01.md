@@ -3,7 +3,7 @@
 + Use the Word Cloud tool to check the words used frequently in the reading passage. [Reading passage](https://github.com/Alexwcjung/Fall2024/blob/main/reading%20passage.md)
 
 ✨**Answer the following questions**
-1. Who is the main character?
+1. Who do you think is the main character?
 2. What do you know about the main character?
 
 ## 🍀 Listening Activity 
