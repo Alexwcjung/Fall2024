@@ -2,8 +2,8 @@
 + Click on Classroom page.
 + Use the Word Cloud tool to check the words used frequently in the reading passage. [Reading passage](https://raw.githubusercontent.com/Alexwcjung/Fall2024/refs/heads/main/reading.md)
 + Answer the following questions.
-  1. Guess what the topic is?
-  2. What do you know about the main character?
+1. Guess what the topic is?
+2. 2. What do you know about the main character?
 
 ## 🍀 Listening Activity 
 + Click on the Classroom page.
