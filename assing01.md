@@ -38,7 +38,7 @@
 |              | had               |
 |              | play              |
 
-+ Answer the following questions
+✨ Answer the following questions
 
 To Be Verbs (10 Questions)
 1. Messi ___ born on June 24, 1987, in Rosario, Argentina.
@@ -72,7 +72,7 @@ This example should help others grasp the potential of the activity and how it c
 Final Submission:
 Make sure your markdown file is clear, well-organized, and informative. Once completed, keep the file in your Fall2024 repository on GitHub. Be prepared to present your activity and the associated digital tool in class on October 16th.
 
-## 🍀 Prepare the Markdown File (md): ✨
+## 🍀 Prepare the Markdown File (md): 
 In the assing01.md file, describe a simple learning activity and the digital tool you plan to use.
 ## Ensure your description is detailed enough for a fellow teacher, who may not be familiar with the tool, to understand. Include necessary links and resources to help explain the tool and activity.
 
