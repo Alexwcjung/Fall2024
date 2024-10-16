@@ -12,7 +12,9 @@ Detail the Language Learning Activity:
 + Answer the follwing questions 
   1. What is topic?
   2. What words comes to your mind as a key word?
-  Reading Acticity
+## 🍀 Listening Activity
++ Answer the following questions
++ 1. What is 
 Organize the activity around different aspects of language learning such as vocabulary, grammar, listening, and writing.
 Design the activity to be engaging and informative.
 Provide an Example of the Language Learning Material:
