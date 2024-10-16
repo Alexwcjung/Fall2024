@@ -74,9 +74,8 @@ Make sure your markdown file is clear, well-organized, and informative. Once com
 
 ## 🍀 Prepare the Markdown File (md): 
 In the assing01.md file, describe a simple learning activity and the digital tool you plan to use.
-## Ensure your description is detailed enough for a fellow teacher, who may not be familiar with the tool, to understand. Include necessary links and resources to help explain the tool and activity.
+Ensure your description is detailed enough for a fellow teacher, who may not be familiar with the tool, to understand. Include necessary links and resources to help explain the tool and activity.
 
-# Assignment Overview 
-Your first assignment involves exploring useful digital tools online and linking one such tool to an activity applicable in your classroom. You will present and share your findings in class on October 16th. Please follow the instructions below to prepare your assignment.
+
 
 
