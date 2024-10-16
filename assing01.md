@@ -1,5 +1,5 @@
 ## 🍀Vocabulary
-+ Click on a file named Classroom_page.
++ Click on Classroom page.
 + Use the Word Cloud tool to check the words used frequently in the reading passage. [Reading passage](https://raw.githubusercontent.com/Alexwcjung/Fall2024/refs/heads/main/reading.md)
 + Answer the following questions.
   1. Guess what the topic is?
@@ -15,8 +15,13 @@
 4. What is his biggest achievement?
 5. Why is he famous around the world?
 
-## 🍀 Grammer Activity
+## 🍀 Pronunciation activity
++ Click on the Classroom page.
++ Use Speechnotes to improve students' intelligibility.
++ Ask students to speak the reading passage so that Speechnotes recognizes their pronunciation.
++ Check if each student has produced intelligible speech.
 
+## 🍀 Grammer Activity
 Organize the activity around different aspects of language learning such as vocabulary, grammar, listening, and writing.
 Design the activity to be engaging and informative.
 Provide an Example of the Language Learning Material:
