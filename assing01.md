@@ -22,6 +22,22 @@
 + Check if each student has produced intelligible speech.
 
 ## 🍀 Grammer Activity
+
+| To Be Verbs  | General Verbs    |
+|--------------|------------------|
+| was          | born              |
+| is           | saw               |
+| were         | pay               |
+| are          | signed            |
+|              | started           |
+|              | needed            |
+|              | offered           |
+|              | wrote             |
+|              | won               |
+|              | help              |
+|              | had               |
+|              | play              |
+
 Organize the activity around different aspects of language learning such as vocabulary, grammar, listening, and writing.
 Design the activity to be engaging and informative.
 Provide an Example of the Language Learning Material:
