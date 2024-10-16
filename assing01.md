@@ -5,14 +5,15 @@ Your first assignment involves exploring useful digital tools online and linking
 In the assing01.md file, describe a simple learning activity and the digital tool you plan to use.
 ## Ensure your description is detailed enough for a fellow teacher, who may not be familiar with the tool, to understand. Include necessary links and resources to help explain the tool and activity.
 Detail the Language Learning Activity:
-Reading Acticity
-+ [Reading passage](https://raw.githubusercontent.com/Alexwcjung/Fall2024/refs/heads/main/reading.md)
+---------
+🍀Vocabulary
 + Let's guess story based on the word Cloud
 + Who is the main character?
 + Where this story begins?
 + what happens?
 + What words comes to your mind as a key word?
-  
+  Reading Acticity
++ [Reading passage](https://raw.githubusercontent.com/Alexwcjung/Fall2024/refs/heads/main/reading.md)
 Organize the activity around different aspects of language learning such as vocabulary, grammar, listening, and writing.
 Design the activity to be engaging and informative.
 Provide an Example of the Language Learning Material:
