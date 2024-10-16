@@ -19,7 +19,7 @@
 
 ## 🍀 Pronunciation activity
 + Click [Speechnotes](https://speechnotes.co/) to improve students' intelligibility.
-+ Ask students to speak the first paragraph of the reading so that Speechnotes recognizes their pronunciation.
++ Ask students to read aloud the first paragraph so that Speechnotes can recognize their pronunciation.
 
 **✨Check if each student has produced intelligible speech**
 
