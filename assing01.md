@@ -13,7 +13,6 @@ Detail the Language Learning Activity:
   1. What is topic?
   2. What words comes to your mind as a key word?
   Reading Acticity
-+ [Reading passage](https://raw.githubusercontent.com/Alexwcjung/Fall2024/refs/heads/main/reading.md)
 Organize the activity around different aspects of language learning such as vocabulary, grammar, listening, and writing.
 Design the activity to be engaging and informative.
 Provide an Example of the Language Learning Material:
