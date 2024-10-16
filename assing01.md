@@ -6,7 +6,7 @@ In the assing01.md file, describe a simple learning activity and the digital too
 ## Ensure your description is detailed enough for a fellow teacher, who may not be familiar with the tool, to understand. Include necessary links and resources to help explain the tool and activity.
 Detail the Language Learning Activity:
 ---------
-🍀Vocabulary
+## 🍀Vocabulary
 + Let's guess story based on the word Cloud
 + Who is the main character?
 + Where this story begins?
