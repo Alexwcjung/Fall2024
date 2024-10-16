@@ -1,4 +1,4 @@
-## Answer Key for Listening Activity ##
+# Answer Key for Listening Activity #
 1. What did Messi need expensive medicine for? He had a growth problem
 2. How old was Messi when he first signed a contract with FC Barcelona? 13
 3. Where did FC Barcelona sign Lionel Messi's first contract? On a napkin
