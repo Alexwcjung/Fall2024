@@ -1,4 +1,4 @@
-Assignment Overview:
+## Assignment Overview ##
 Your first assignment involves exploring useful digital tools online and linking one such tool to an activity applicable in your classroom. You will present and share your findings in class on October 16th. Please follow the instructions below to prepare your assignment.
 
 Step-by-Step Instructions:
