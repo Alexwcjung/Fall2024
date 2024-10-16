@@ -17,6 +17,17 @@
 4. What is his biggest achievement?
 5. Why is he famous around the world?
 
+| **#** | **Question**                                                      |
+|-------|-------------------------------------------------------------------|
+| 1     | What did Messi need expensive medicine for?                       |
+| 2     | How old was Messi when he first signed a contract with FC Barcelona? |
+| 3     | Where did FC Barcelona sign Lionel Messi's first contract?         |
+| 4     | What is his biggest achievement?                                  |
+| 5     | Why is he famous around the world?                                |
+```
+
+This will display the questions with numbers in your README file.
+
 ## 🍀 Pronunciation activity
 + Click [Speechnotes](https://speechnotes.co/) to improve students' intelligibility.
 + Ask students to read aloud the first paragraph so that Speechnotes can recognize their pronunciation.
