@@ -38,6 +38,8 @@
 |              | had               |
 |              | play              |
 
++ Answer the following questions
+
 To Be Verbs (10 Questions)
 1. Messi ___ born on June 24, 1987, in Rosario, Argentina.
 2. When Messi was 13, FC Barcelona ___ eager to sign him.
