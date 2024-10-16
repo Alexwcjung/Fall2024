@@ -8,7 +8,7 @@ Detail the Language Learning Activity:
 ---------
 ## 🍀Vocabulary
 + Click a file named the Classroom_ page
-+ Put in the reading passage which is in the file named reading.md
++ Put in the [Reading passage](https://raw.githubusercontent.com/Alexwcjung/Fall2024/refs/heads/main/reading.md)
 + Answer the follwing questions 
   1. What is topic?
   2. What words comes to your mind as a key word?
