@@ -16,7 +16,7 @@
 5. Why is he famous around the world?
 
 ## 🍀 Pronunciation activity
-+ Click [Speechnotes].
++ Click [Speechnotes](https://speechnotes.co/)
 + Use Speechnotes to improve students' intelligibility.
 + Ask students to speak the reading passage so that Speechnotes recognizes their pronunciation.
 + Check if each student has produced intelligible speech.
