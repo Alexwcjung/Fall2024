@@ -20,8 +20,7 @@
 ## 🍀 Pronunciation activity
 + Click [Speechnotes](https://speechnotes.co/) to improve students' intelligibility.
 + Ask students to read aloud the first paragraph so that Speechnotes can recognize their pronunciation.
-
-**✨Check if each student has produced intelligible speech**
++ Check if each student has produced intelligible speech**
 
 ## 🍀 Grammer Activity
 
