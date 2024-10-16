@@ -14,11 +14,11 @@ Detail the Language Learning Activity:
   2. What words comes to your mind as a key word?
 ## 🍀 Listening Activity
 + Answer the following questions
-+ 1. What did Messi need expensive medicine for?
-  2. How old was Messi when he first signed a contract with FC Barcelona?
-  3. Where did FC Barcelona sign Lionel Messi's first contract?
-  4. What is his biggest achievement?
-  5. Why is he famous around the world?
+1. What did Messi need expensive medicine for?
+2. How old was Messi when he first signed a contract with FC Barcelona?
+3. Where did FC Barcelona sign Lionel Messi's first contract?
+4. What is his biggest achievement?
+5. Why is he famous around the world?
 ---------
 
 Organize the activity around different aspects of language learning such as vocabulary, grammar, listening, and writing.
