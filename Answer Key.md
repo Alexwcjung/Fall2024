@@ -3,7 +3,7 @@
 2. How old was Messi when he first signed a contract with FC Barcelona? 13
 3. Where did FC Barcelona sign Lionel Messi's first contract? On a napkin
 4. What is his biggest achievement? Winning the World Cup trophy
-5. Why is he famous around the world? He is known for his talent, as well as his kind and humble personality
+5. Why is he famous around the world? He is famous for his soccer skills, his humble and inspiring personality.
 
 ## Sentences with "to be" verbs:
 1. Messi is one of the most famous soccer players in the world.
