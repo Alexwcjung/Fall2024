@@ -7,13 +7,16 @@ In the assing01.md file, describe a simple learning activity and the digital too
 Detail the Language Learning Activity:
 ---------
 ## 🍀Vocabulary
-+ Click a file named the Classroom_ page
-+ Put in the [Reading passage](https://raw.githubusercontent.com/Alexwcjung/Fall2024/refs/heads/main/reading.md)
-+ Answer the follwing questions 
-  1. What is topic?
-  2. What words comes to your mind as a key word?
-## 🍀 Listening Activity
-+ Answer the following questions
++ Click on a file named Classroom_page.
++ Use the Word Cloud tool to check the words used frequently in the reading passage. [Reading passage](https://raw.githubusercontent.com/Alexwcjung/Fall2024/refs/heads/main/reading.md)
++ Answer the following questions.
+  1. Guess what the topic is?
+  2. What do you know about the main character?
+
+## 🍀 Listening Activity 
++ Click on the Classroom page.
++ Use the Text-to-Speech (gTTS) tool to convert the reading passage into speech.
++ Listen to the passage carefully to answer the following questions.
 1. What did Messi need expensive medicine for?
 2. How old was Messi when he first signed a contract with FC Barcelona?
 3. Where did FC Barcelona sign Lionel Messi's first contract?
