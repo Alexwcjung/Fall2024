@@ -19,7 +19,7 @@ Your first assignment involves exploring useful digital tools online and linking
 4. What is his biggest achievement?
 5. Why is he famous around the world?
 
-## 🍀 Grammer
+## 🍀 Grammer Activity
 
 Organize the activity around different aspects of language learning such as vocabulary, grammar, listening, and writing.
 Design the activity to be engaging and informative.
