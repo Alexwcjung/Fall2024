@@ -3,26 +3,20 @@
 + Use the Word Cloud tool to check the words used frequently in the reading passage. [Reading passage](https://github.com/Alexwcjung/Fall2024/blob/main/reading%20passage.md)
 
 ✨**Answer the following questions**
-| **#** | **Question**                                 |
-|-------|----------------------------------------------|
-| 1     | Who is the main character?                   |
-| 2     | What do you know about the main character?   |
-
+1. Who is the main character?
+2. What do you know about the main character?
 
 ## 🍀 Listening Activity 
 + Click on the Classroom page.
 + Use the *Text-to-Speech (gTTS) tool* to convert the reading passage into speech.
 
 **✨ Listen to the passage carefully to answer the following questions**
-
-| **#** | **Question**                                                      |
-|-------|-------------------------------------------------------------------|
-| 1     | What did Messi need expensive medicine for?                       |
-| 2     | How old was Messi when he first signed a contract with FC Barcelona? |
-| 3     | Where did FC Barcelona sign Lionel Messi's first contract?         |
-| 4     | What is his biggest achievement?                                  |
-| 5     | Why is he famous around the world?                                |
-
+1. What did Messi need expensive medicine for?
+2. How old was Messi when he first signed a contract with FC Barcelona?
+3. Where did FC Barcelona sign Lionel Messi's first contract?
+4. What is his biggest achievement?
+5. Why is he famous around the world?
+   
 ## 🍀 Pronunciation activity
 + Click [Speechnotes](https://speechnotes.co/) to improve students' intelligibility.
 + Ask students to read aloud the first paragraph so that Speechnotes can recognize their pronunciation.
