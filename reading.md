@@ -1,6 +1,7 @@
 ## Lionel Messi: A Soccer Legend ##
 
 **Early Life and Youth Career** 
+
 Lionel Messi was born on June 24, 1987, in Rosario, Argentina. From a young age, he loved playing soccer and was very talented. However, he had a growth problem that needed expensive medicine, which his family couldn’t afford. When Messi was 13, FC Barcelona, a famous soccer club, saw his talent and offered to pay for his treatment. They were so eager to sign him that they wrote his first contract on a napkin!
 
 **Career Highlights**  
