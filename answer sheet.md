@@ -1,3 +1,10 @@
+## Answer Key for Listening Activity ##
+What did Messi need expensive medicine for? He had a growth problem
+How old was Messi when he first signed a contract with FC Barcelona? 13
+Where did FC Barcelona sign Lionel Messi's first contract? On a napkin
+What is his biggest achievement? Winning the World Cup trophy
+Why is he famous around the world? He is known for his talent, as well as his kind and humble personality
+
 ## Sentences with "to be" verbs:
 1. Messi is one of the most famous soccer players in the world.
 2. Messi was born on June 24, 1987, in Rosario, Argentina.
