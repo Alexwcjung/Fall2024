@@ -8,7 +8,7 @@
 
 ## 🍀 Listening Activity 
 + Click on the Classroom page.
-+ Use the Text-to-Speech (gTTS) tool to convert the reading passage into speech.
++ Use the *Text-to-Speech (gTTS) tool* to convert the reading passage into speech.
 
 **✨ Listen to the passage carefully to answer the following questions**
 1. What did Messi need expensive medicine for?
