@@ -5,7 +5,8 @@
 4. What is his biggest achievement? Winning the World Cup trophy
 5. Why is he famous around the world? He is famous for his soccer skills and his humble, inspiring personality.
 
-## Sentences with "to be" verbs:
+# Answer Key for Grammar Activity #
+### Sentences with "to be" verbs:
 1. Messi is one of the most famous soccer players in the world.
 2. Messi was born on June 24, 1987, in Rosario, Argentina.
 3. Messi is known for his amazing dribbling and scoring skills.
@@ -15,7 +16,7 @@
 7. FC Barcelona was eager to sign him.
 8. FC Barcelona is one of the most famous soccer clubs in the world.
 
-## Sentences with general verbs:
+### Sentences with general verbs:
 1. Messi achieved his biggest career achievement in 2022 when he won the World Cup.
 2. Messi’s family couldn’t afford the expensive medicine he needed.
 3. Messi had loved playing soccer from a young age.
