@@ -4,15 +4,14 @@ Your first assignment involves exploring useful digital tools online and linking
 ## 🍀 Prepare the Markdown File (md): ✨
 In the assing01.md file, describe a simple learning activity and the digital tool you plan to use.
 ## Ensure your description is detailed enough for a fellow teacher, who may not be familiar with the tool, to understand. Include necessary links and resources to help explain the tool and activity.
-Detail the Language Learning Activity:
----------
+
 ## 🍀Vocabulary
 + Click on a file named Classroom_page.
 + Use the Word Cloud tool to check the words used frequently in the reading passage. [Reading passage](https://raw.githubusercontent.com/Alexwcjung/Fall2024/refs/heads/main/reading.md)
 + Answer the following questions.
   1. Guess what the topic is?
   2. What do you know about the main character?
-------------
+
 ## 🍀 Listening Activity 
 + Click on the Classroom page.
 + Use the Text-to-Speech (gTTS) tool to convert the reading passage into speech.
@@ -22,7 +21,7 @@ Detail the Language Learning Activity:
 3. Where did FC Barcelona sign Lionel Messi's first contract?
 4. What is his biggest achievement?
 5. Why is he famous around the world?
----------
+
 ## 🍀 Grammer
 
 Organize the activity around different aspects of language learning such as vocabulary, grammar, listening, and writing.
