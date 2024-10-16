@@ -22,9 +22,6 @@
 | 3     | Where did FC Barcelona sign Lionel Messi's first contract?         |
 | 4     | What is his biggest achievement?                                  |
 | 5     | Why is he famous around the world?                                |
-```
-
-This will display the questions with numbers in your README file.
 
 ## 🍀 Pronunciation activity
 + Click [Speechnotes](https://speechnotes.co/) to improve students' intelligibility.
