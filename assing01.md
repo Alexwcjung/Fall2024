@@ -1,7 +1,7 @@
 ## 🍀Vocabulary
 + Click on Classroom page.
 + Use the Word Cloud tool to check the words used frequently in the reading passage. [Reading passage](https://github.com/Alexwcjung/Fall2024/blob/main/reading%20passage.md)
-+✨ **Answer the following questions**
++ ✨**Answer the following questions**
 1. Who is the main character?
 2. What do you know about the main character?
 
