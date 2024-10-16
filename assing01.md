@@ -4,7 +4,7 @@
 
 ✨**Answer the following questions**
 1. Who do you think is the main character?
-2. What do you know about the main character?
+2. What do you know about him/her?
 
 ## 🍀 Listening Activity 
 + Click on the Classroom page.
