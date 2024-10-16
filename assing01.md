@@ -40,7 +40,7 @@
 |                 | play              |
 
 
-✨ Let’s fill in the blanks with the words from the table.
+✨ **Let’s fill in the blanks with the words from the table**
 
 1. Messi ___ one of the most famous soccer players in the world.
 2. Messi ___ his biggest career achievement in 2022 when he won the World Cup.
