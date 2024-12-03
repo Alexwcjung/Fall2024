@@ -17,6 +17,6 @@
 |------ |---------------------------------------|--------------------|    |
 |   5   |   Introduced the Story with a Video   | Visual Material #2 | |
 |  10   |   Understanding the Story with Audio   |  Audio Material #1 |       |
-|  10   |    Checking Comprehension     |        App #3      |      
+|  10   |    Checking Comprehension     |        App #3      |      |
 |------ |---------------------------------------|--------------------|   |
 |  10   |    Thinking Critically & Evaluating   |        App #4      |  |
