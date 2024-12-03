@@ -6,7 +6,7 @@
 
 |             Target Learners            |     Proficiency Level   |              Time Frame             |
 |------------------------------|-----------------------------------|-------------------------------------|
-|   2<sup>nd</sup>-graded Middle School Students     |         Low          |   50 mins.   (15 - 25 - 10 mins.)   |
+|   1<sup>nd</sup>-graded Vocational high School Students     |         Low          |   50 mins.   (15 - 25 - 10 mins.)   |
 
 
 | #  | Sequencing of Activities            | Resources           | Time (mins) |
